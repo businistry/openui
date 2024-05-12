@@ -52,11 +52,11 @@
 
   "secrets": {
     "OPENAI_API_KEY": {
-      "description": "Your OpenAI API Key",
+      "description": "sk-proj-zy9zJLAhRErMc5ZHfsUGT3BlbkFJarZtDdATNd1LNPWWgcIe",
       "documentationUrl": "https://platform.openai.com/api-keys"
     },
     "WANDB_API_KEY": {
-      "description": "Your W&B API Key",
+      "description": "18e042e0c7a7305413fa50c70d88a20ce3003ec7",
       "documentationUrl": "https://wandb.ai/authorize"
     }
   }
